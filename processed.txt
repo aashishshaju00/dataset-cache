@@ -1,4 +1,4 @@
-# one id per line
-JR-202610640
-5130478007
-5194178007
+# APPLIED JOBS ONLY. Format: slug|job_id
+# Never add test, debug, or proof-test exclusions to this file.
+lucid|5130478007
+lucid|5194178007
